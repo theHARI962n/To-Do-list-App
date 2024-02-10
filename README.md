@@ -40,11 +40,10 @@ Click the "x" button next to a task to delete it.
 
 Your tasks will be saved automatically using the browser's local storage.
 
-## Author
-
-Your Name
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Feel free to modify this README to include any additional information or customization specific to your To-Do List App.
+
+## Contact
+
+phone:9042590636
+
+email:har6ihar9an@gmail.com
